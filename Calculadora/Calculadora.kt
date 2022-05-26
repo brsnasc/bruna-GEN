@@ -32,7 +32,3 @@ class Calculadora {
         }
     }
 }
-
-private fun Int.pow(x: Double) {
-
-}
