@@ -36,8 +36,7 @@ internal class CalculadoraTest {
 
     @Test
     fun radiciacaoTest(){
-        assertEquals(3.0, Calculadora.radiciacao( 9.0))
+        assertEquals(3.0, Calculadora.radiciacao(9.0))
 
     }
-
 }
